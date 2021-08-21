@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.AddressBookTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-21T16:21:10" hostname="NIHARIKA" time="0.101">
+  <properties/>
+  <testcase name="givenContactInAddressBookReturnTrue()" classname="com.bridgelabz.AddressBookTest" time="0.101"/>
+  <system-out><![CDATA[Niharika Gowda:277587802,niharikagowda1996@gmail.com: address:Balehonnur, state:Karnataka, city:Chikmagalur, zip:577112
+[Niharika Gowda:277587802,niharikagowda1996@gmail.com: address:Balehonnur, state:Karnataka, city:Chikmagalur, zip:577112]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
